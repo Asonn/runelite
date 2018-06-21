@@ -62,9 +62,9 @@ public class ReorderPrayersPlugin extends Plugin
 
 	static final String CONFIG_GROUP_KEY = "reorderprayers";
 
-	static final String CONFIG_UNLOCK_REORDERING_KEY = "unlockPrayerReordering";
+	static final String CONFIG_UNLOCK_REORDERING_KEY = "unlockMagicReordering";
 
-	static final String CONFIG_PRAYER_ORDER_KEY = "prayerOrder";
+	static final String CONFIG_PRAYER_ORDER_KEY = "magicOrder";
 
 	private static final int PRAYER_WIDTH = 34;
 

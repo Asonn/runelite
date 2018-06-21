@@ -61,6 +61,7 @@ public class WidgetID
 	public static final int RESIZABLE_VIEWPORT_OLD_SCHOOL_BOX_GROUP_ID = 161;
 	public static final int RESIZABLE_VIEWPORT_BOTTOM_LINE_GROUP_ID = 164;
 	public static final int PRAYER_GROUP_ID = 541;
+	public static final int MAGIC_GROUP_ID= 218;
 	public static final int QUICK_PRAYERS_GROUP_ID = 77;
 	public static final int SHOP_GROUP_ID = 300;
 	public static final int SHOP_INVENTORY_GROUP_ID = 301;
@@ -389,6 +390,83 @@ public class WidgetID
 		public static final int RIGOUR_CHILD_ID = 24;
 		public static final int AUGURY_CHILD_ID = 27;
 	}
+
+    /**
+     * @TODO add other magic spellbooks
+     */
+    public static class Magic
+    {
+        static final int LUMBRIDGE_HOME_TELEPORT = 1;
+        static final int WIND_STRIKE = 2;
+        static final int CONFUSE = 3;
+        static final int ENCHANT_CROSSBOW_BOLT = 4;
+        static final int WATER_STRIKE = 5;
+        static final int LVL1_ENCHANT = 6;
+        static final int EARTH_STRIKE = 7;
+        static final int WEAKEN = 8;
+        static final int FIRE_STRIKE = 9;
+        static final int BONES_TO_BANANAS = 10;
+        static final int WIND_BOLT = 11;
+        static final int CURSE = 12;
+        static final int BIND = 13;
+        static final int LOW_LEVEL_ALCHEMY = 14;
+        static final int WATER_BOLT = 15;
+        static final int VARROCK_TELEPORT = 16;
+        static final int LVL2_ENCHANT = 17;
+        static final int EARTH_BOLT = 18;
+        static final int LUMBRIDGE_TELEPORT = 19;
+        static final int TELEKINETIC_GRAB = 20;
+        static final int FIRE_BOLT = 21;
+        static final int FALADOR_TELEPORT = 22;
+        static final int CRUMBLE_UNDEAD = 23;
+        static final int TELEPORT_TO_HOUSE = 24;
+        static final int WIND_BLAST = 25;
+        static final int SUPERHEAT_ITEM = 26;
+        static final int CAMELOT_TELEPORT = 27;
+        static final int WATER_BLAST = 28;
+        static final int LVL3_ENCHANT = 29;
+        static final int IBAN_BLAST = 30;
+        static final int SNARE = 31;
+        static final int MAGIC_DART = 32;
+        static final int ARDOUGNE_TELEPORT = 33;
+        static final int EARTH_BLAST = 34;
+        static final int HIGH_LEVEL_ALCHEMY = 35;
+        static final int CHARGE_WATER_ORB = 36;
+        static final int LVL4_ENCHANT = 37;
+        static final int WATCHTOWER_TELEPORT = 38;
+        static final int FIRE_BLAST = 39;
+        static final int CHARGE_EARTH_ORB = 40;
+        static final int BONES_TO_PEACHES = 41;
+        static final int SARADOMIN_STRIKE = 42;
+        static final int CLAWS_OF_GUTHIX = 43;
+        static final int FLAMES_OF_ZAMORAK = 44;
+        static final int TROLLHEIM_TELEPORT = 45;
+        static final int WIND_WAVE = 46;
+        static final int CHARGE_FIRE_ORB = 47;
+        static final int TELEPORT_TO_APE_TOLL = 48;
+        static final int WATER_WAVE = 49;
+        static final int CHARGE_AIR_ORB = 50;
+        static final int VULNERABILITY = 51;
+        static final int LVL5_ENCHANT = 52;
+        static final int TELEPORT_TO_KOUREND = 53;
+        static final int EARTH_WAVE = 54;
+        static final int ENFEEBLE = 55;
+        static final int TELEOTHER_LUMBRIDGE = 56;
+        static final int FIRE_WAVE = 57;
+        static final int ENTANGLE = 58;
+        static final int STUN = 59;
+        static final int CHARGE = 60;
+        static final int WIND_SURGE = 62;
+        static final int TELEOTHER_FALADOR = 61;
+        static final int WATER_SURGE = 63;
+        static final int TELE_BLOCK = 64;
+        static final int TELEPORT_TO_BOUNTY_TARGET = 65;
+        static final int LVL6_ENCHANT = 66;
+        static final int TELEOTHER_CAMELOT = 67;
+        static final int EARTH_SURGE = 68;
+        static final int LVL7_ENCHANT = 69;
+        static final int FIRE_SURGE = 70;
+    }
 
 	static class Combat
 	{

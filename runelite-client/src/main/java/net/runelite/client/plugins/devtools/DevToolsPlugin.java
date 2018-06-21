@@ -55,7 +55,7 @@ import org.slf4j.LoggerFactory;
 
 @PluginDescriptor(
 	name = "Developer Tools",
-	developerPlugin = true
+	developerPlugin = false
 )
 @Slf4j
 public class DevToolsPlugin extends Plugin
